@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/bin/Debug/netcoreapp3.1/QueueCollection.deps.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/bin/Debug/netcoreapp3.1/QueueCollection.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/bin/Debug/netcoreapp3.1/QueueCollection.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/bin/Debug/netcoreapp3.1/QueueCollection.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/bin/Debug/netcoreapp3.1/QueueCollection.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/obj/Debug/netcoreapp3.1/QueueCollection.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/obj/Debug/netcoreapp3.1/QueueCollection.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/obj/Debug/netcoreapp3.1/QueueCollection.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/obj/Debug/netcoreapp3.1/QueueCollection.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/obj/Debug/netcoreapp3.1/QueueCollection.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/obj/Debug/netcoreapp3.1/QueueCollection.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/QueueCollection/QueueCollection/obj/Debug/netcoreapp3.1/QueueCollection.genruntimeconfig.cache
