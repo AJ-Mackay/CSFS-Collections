@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.deps.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.genruntimeconfig.cache
