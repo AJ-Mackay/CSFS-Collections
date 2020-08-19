@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/bin/Debug/netcoreapp3.1/Array.deps.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/bin/Debug/netcoreapp3.1/Array.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/bin/Debug/netcoreapp3.1/Array.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/obj/Debug/netcoreapp3.1/Array.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/obj/Debug/netcoreapp3.1/Array.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/obj/Debug/netcoreapp3.1/Array.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/obj/Debug/netcoreapp3.1/Array.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/Array/Array/obj/Debug/netcoreapp3.1/Array.genruntimeconfig.cache
