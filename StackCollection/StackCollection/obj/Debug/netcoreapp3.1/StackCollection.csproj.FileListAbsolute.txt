@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/bin/Debug/netcoreapp3.1/StackCollection.deps.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/bin/Debug/netcoreapp3.1/StackCollection.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/bin/Debug/netcoreapp3.1/StackCollection.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/bin/Debug/netcoreapp3.1/StackCollection.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/bin/Debug/netcoreapp3.1/StackCollection.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/obj/Debug/netcoreapp3.1/StackCollection.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/obj/Debug/netcoreapp3.1/StackCollection.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/obj/Debug/netcoreapp3.1/StackCollection.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/obj/Debug/netcoreapp3.1/StackCollection.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/obj/Debug/netcoreapp3.1/StackCollection.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/obj/Debug/netcoreapp3.1/StackCollection.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/StackCollection/StackCollection/obj/Debug/netcoreapp3.1/StackCollection.genruntimeconfig.cache
