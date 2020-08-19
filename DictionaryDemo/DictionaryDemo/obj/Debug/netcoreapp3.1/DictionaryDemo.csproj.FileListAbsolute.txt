@@ -1,0 +1,12 @@
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/bin/Debug/netcoreapp3.1/DictionaryDemo.deps.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/bin/Debug/netcoreapp3.1/DictionaryDemo.runtimeconfig.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/bin/Debug/netcoreapp3.1/DictionaryDemo.runtimeconfig.dev.json
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/bin/Debug/netcoreapp3.1/DictionaryDemo.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/bin/Debug/netcoreapp3.1/DictionaryDemo.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/obj/Debug/netcoreapp3.1/DictionaryDemo.csprojAssemblyReference.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/obj/Debug/netcoreapp3.1/DictionaryDemo.AssemblyInfoInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/obj/Debug/netcoreapp3.1/DictionaryDemo.AssemblyInfo.cs
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/obj/Debug/netcoreapp3.1/DictionaryDemo.csproj.CoreCompileInputs.cache
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/obj/Debug/netcoreapp3.1/DictionaryDemo.dll
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/obj/Debug/netcoreapp3.1/DictionaryDemo.pdb
+/Users/paulmackay/Desktop/C#/Arrays and Collections/DictionaryDemo/DictionaryDemo/obj/Debug/netcoreapp3.1/DictionaryDemo.genruntimeconfig.cache
